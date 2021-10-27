@@ -1,0 +1,38 @@
+.cardbody{
+    border: 2px solid black;
+    padding: 1%;
+    margin: 1%;
+    background-color: cadetblue;
+    font-size: 20px;
+    width: auto;
+}
+s{
+    color:blue;
+}
+p{
+    color:blueviolet;
+}
+u,h2{
+    color:brown;
+  
+}
+button{
+    color:brown;
+    background-color: cornflowerblue;
+    padding: 1%;
+    margin:1%;
+}
+img{
+    height:20%;
+
+}
+.card{
+    display:flex;
+    flex-direction: row;
+   
+}
+.cardbody img{
+    width: 100%;
+    height:40%;
+}
+
